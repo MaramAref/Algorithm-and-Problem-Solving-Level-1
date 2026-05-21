@@ -11,7 +11,7 @@ stInfo ReadInfo(){
 	cin>>info.Age;
 	cout<<"do you have a Drive License \n Enter 1 or 0 \n";
 	cin>>info.HasDriverLicense;
-	cout<<"do you have a \n Enter 1 or 0 \n";
+	cout<<"do you have a Recommendation\n Enter 1 or 0 \n";
 	cin>>info.Recommendation;
 	return info;
 }
