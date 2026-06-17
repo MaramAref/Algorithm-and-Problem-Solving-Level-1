@@ -9,5 +9,4 @@
 ## 🛠️ Tech Stack
 
 * C++
-* Git
 * GitHub
