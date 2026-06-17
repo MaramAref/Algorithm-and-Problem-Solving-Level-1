@@ -1,4 +1,4 @@
-# Course04-Advanced-Algorithms-L1
+#Algorithm-and-Problem-Solving-Level-1
 ## 📌 Core Practices Applied
 
 * **Refactoring:** Rewriting code to improve readability, structure, and maintainability.
